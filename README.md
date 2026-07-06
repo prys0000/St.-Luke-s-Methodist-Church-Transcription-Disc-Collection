@@ -57,7 +57,7 @@ Complete captioned image inventory: [`metadata/image-captions.csv`](metadata/ima
 
 ## Related
 
-- Project page: [japryse.com](https://japryse1-ja-pryse---cv.editor.wix.com) *(update to published URL)*
+- Project page: TBD
 
 ## Rights and Reuse
 
