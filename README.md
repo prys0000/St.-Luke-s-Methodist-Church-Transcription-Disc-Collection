@@ -31,7 +31,7 @@ Full protocol details, materials, and safety notes are in [`docs/methodology.md`
 
 | Before | After |
 |--------|-------|
-| ![Sleeve bonded to lacquer](images/before/1947-05-05_disc_sleeve-bonded_web.JPG) | ![Cleaned disc on turntable](images/after/1947-05-05_disc_cleaned_turntable.JPG) |
+| ![Sleeve bonded to lacquer](images/before/Before_1.jpg) | ![Cleaned disc on turntable](images/after/1947-05-05_disc_cleaned_turntable.JPG) |
 | ![Acid and mold through grooves](images/before/1947-05-06_disc6_acid-mold-buildup_close.JPG) | ![Cleaned groove detail](images/after/1947-05-05_disc_cleaned_groove-detail.JPG) |
 
 Complete captioned image inventory: [`metadata/image-captions.csv`](metadata/image-captions.csv)
