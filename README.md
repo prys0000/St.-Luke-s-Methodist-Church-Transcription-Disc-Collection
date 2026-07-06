@@ -1,4 +1,4 @@
-# St. Luke's Methodist Church Transcription Disc Collection
+# St. Luke's Methodist Church Transcription Disc Collection - A Case Study in Palmitic Acid
 ## Preservation, Conservation Methodology, and Digitization Process
 
 **JA Pryse, PhD** — Lead Archivist & Curator
@@ -11,11 +11,13 @@ The project encompasses condition assessment, stabilization, cleaning treatment 
 
 ## The Problem
 
+Lacquer discs often develop a white waxy coating of palmitic and stearic acids, which can be mistaken for mold but causes permanent damage, risking loss of historical data. Archivists face threats of media degradation, compounded by costs and lack of content information. 
 Decades of uncontrolled environmental exposure — humidity swings, heat, cold, and improper vertical/stacked storage — produced three interacting deterioration mechanisms:
 
 1. **Sleeve adhesion.** Original kraft-paper sleeves bonded directly to the lacquer surface, in some cases fusing with the plasticizer layer.
 2. **Palmitic acid exudation.** The castor-oil plasticizer in the nitrocellulose lacquer hydrolyzed, migrating to the surface as a white, greasy crystalline deposit (palmitic/stearic acid) — the classic and most destructive failure mode of lacquer discs.
 3. **Suspected mold growth** distributed through the groove field, intermixed with the acid bloom.
+4. **Inaccessible formats** Antiquated equipment is obsolete or not restorable.
 
 ## Treatment Summary
 
