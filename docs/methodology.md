@@ -125,4 +125,4 @@ Cloths and brushes must be new at each application step; never reuse a contamina
 
 ---
 
-*For further detailed processes, tips, and tricks — or to share improvements and innovative strategies — contact the author.*
+*For further detailed processes, tips, and tricks — or to share improvements and innovative strategies — contact japryse@harcsm.org.*
