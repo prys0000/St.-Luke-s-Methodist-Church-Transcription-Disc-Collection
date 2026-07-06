@@ -1,9 +1,9 @@
-# St. Luke's Methodist Church Transcription Disc Collection - A Case Study in Palmitic Acid
+# St. Luke's Methodist Church Transcription Disc Collection
 ## Preservation, Conservation Methodology, and Digitization Process
 
 **JA Pryse, PhD** — Lead Archivist & Curator
 
-This repository documents the physical conservation and digital reformatting of a series of lacquer transcription discs recorded by radio station **KTOK** (Oklahoma City) of broadcasts from **St. Luke's Methodist Church**, May 1947. The discs are 16-inch, 33⅓ RPM, inside-start instantaneous lacquer recordings on aluminum or glass bases, recorded on-site (including the Municipal Auditorium) for delayed broadcast.
+This repository documents the physical conservation and digital reformatting of a series of lacquer transcription discs recorded by radio station **KTOK** (Oklahoma City) of broadcasts from **St. Luke's Methodist Church**, May 1947. The collection comprises 37 sixteen-inch, 33⅓ RPM, inside-start instantaneous lacquer discs (1946–1961) on steel substrates, plus 3 wire recordings, recorded on-site (including the Municipal Auditorium) for delayed broadcast. See [`docs/background.md`](docs/background.md) for the history of the congregation and the Oklahoma Historical Society digitization project.
 
 The project encompasses condition assessment, stabilization, cleaning treatment development (including the **Pryse OHS Method**), playback transfer, and full photographic documentation (51 images) of the before/during/after states of each disc.
 
@@ -11,13 +11,11 @@ The project encompasses condition assessment, stabilization, cleaning treatment 
 
 ## The Problem
 
-Lacquer discs often develop a white waxy coating of palmitic and stearic acids, which can be mistaken for mold but causes permanent damage, risking loss of historical data. Archivists face threats of media degradation, compounded by costs and lack of content information. 
 Decades of uncontrolled environmental exposure — humidity swings, heat, cold, and improper vertical/stacked storage — produced three interacting deterioration mechanisms:
 
 1. **Sleeve adhesion.** Original kraft-paper sleeves bonded directly to the lacquer surface, in some cases fusing with the plasticizer layer.
 2. **Palmitic acid exudation.** The castor-oil plasticizer in the nitrocellulose lacquer hydrolyzed, migrating to the surface as a white, greasy crystalline deposit (palmitic/stearic acid) — the classic and most destructive failure mode of lacquer discs.
 3. **Suspected mold growth** distributed through the groove field, intermixed with the acid bloom.
-4. **Inaccessible formats** Antiquated equipment is obsolete or not restorable.
 
 ## Treatment Summary
 
@@ -27,7 +25,7 @@ Decades of uncontrolled environmental exposure — humidity swings, heat, cold, 
 | Test: distilled water + vinegar rinse | Applied and removed quickly to avoid attacking the lacquer | **Not effective** — surface deposits largely remained |
 | **Pryse OHS Method** (full protocol) | Applied after the vinegar test and rinse | **Successful** — disc cleaned entirely; groove detail recovered for playback |
 
-Full protocol details, materials, and safety notes are in [`docs/methodology.md`](docs/methodology.md).
+The complete step-by-step protocol — materials list, treatment-space setup, the 16-step Pryse OHS cleaning sequence, and safety notes — is in [`docs/methodology.md`](docs/methodology.md).
 
 ## Before / After
 
@@ -43,9 +41,11 @@ Complete captioned image inventory: [`metadata/image-captions.csv`](metadata/ima
 ```
 ├── README.md
 ├── docs/
-│   ├── methodology.md          # Conservation treatment protocol (Pryse OHS Method)
+│   ├── background.md           # Collection history and project context
+│   ├── methodology.md          # Full conservation protocol (Pryse OHS Method)
 │   ├── condition-report.md     # Deterioration assessment and mechanisms
-│   └── digitization.md         # Playback transfer and digital preservation workflow
+│   ├── digitization.md         # Playback transfer and digital preservation workflow
+│   └── figures/                # Reference figures and treatment-station photos
 ├── images/
 │   ├── before/                 # Pre-treatment condition documentation
 │   ├── process/                # Treatment in progress
